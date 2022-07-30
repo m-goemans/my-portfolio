@@ -1,0 +1,4 @@
+run = "index.html"
+
+[nix]
+channel = "stable-21_11"
